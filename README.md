@@ -18,8 +18,8 @@ Welcome to the **School App**! This application is designed to help you manage s
 
 ## 📸 Demo
 
-![Demo of School Management App](sys.png)  
-*Experience how the app simplifies student management!*
+![Demo of School App](sys.png)  
+*Experience how the app simplifies management!*
 
 ---
 
